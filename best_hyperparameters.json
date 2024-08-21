@@ -1,0 +1,31 @@
+{
+    "best": 5,
+    "minscouts": 18,
+    "attack_(s)pdratio": 3,
+    "mindanger": 4,
+    "defend_(s)pdratio": 6,
+    "starting_turrets": [
+        [
+            4,
+            12
+        ],
+        [
+            23,
+            12
+        ],
+        [
+            10,
+            12
+        ],
+        [
+            17,
+            12
+        ]
+    ],
+    "starting_wall_x1": 3,
+    "starting_wall_y1": 11,
+    "starting_wall_x2": 22,
+    "starting_wall_y2": 13,
+    "min_mp_to_save_sp": 14,
+    "min_attack_mp": 11
+}

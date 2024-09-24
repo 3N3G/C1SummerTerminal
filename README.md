@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# 2024 Summer Terminal, Second Place
+
 # C1GamesStarterKit
 
 Welcome to the C1 Terminal Starter Kit! The repository contains a collection of scripts and 
